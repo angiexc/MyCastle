@@ -1,0 +1,245 @@
+fileFormatVersion: 2
+guid: dee69d93302c5ff42b148569fc4c271b
+timeCreated: 1524631436
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: base tower
+    100002: Box
+    100004: Camera
+    100006: Castle walls
+    100008: Catwalk.001
+    100010: Chair
+    100012: Cornice Blocks
+    100014: GateHouse
+    100016: GateHouse Base left
+    100018: GateHouse Base right
+    100020: GateHouse Cornice Blocks
+    100022: Ground
+    100024: Hemi
+    100026: Lamp
+    100028: mariomushroom
+    100030: my tower cornice
+    100032: //RootNode
+    100034: mytower
+    100036: Table
+    100038: TableLeg
+    100040: TableLeg.001
+    100042: TableLeg.002
+    100044: TableLeg.003
+    100046: Tower 1
+    100048: Tower 1 Cornice  Blocks
+    100050: Tower 2
+    100052: Tower 2 Cornice  Blocks
+    100054: Tower 3
+    100056: Tower 3 Cornice  Blocks
+    100058: Tower 4
+    100060: Tower 4 Cornice  Blocks
+    400000: base tower
+    400002: Box
+    400004: Camera
+    400006: Castle walls
+    400008: Catwalk.001
+    400010: Chair
+    400012: Cornice Blocks
+    400014: GateHouse
+    400016: GateHouse Base left
+    400018: GateHouse Base right
+    400020: GateHouse Cornice Blocks
+    400022: Ground
+    400024: Hemi
+    400026: Lamp
+    400028: mariomushroom
+    400030: my tower cornice
+    400032: //RootNode
+    400034: mytower
+    400036: Table
+    400038: TableLeg
+    400040: TableLeg.001
+    400042: TableLeg.002
+    400044: TableLeg.003
+    400046: Tower 1
+    400048: Tower 1 Cornice  Blocks
+    400050: Tower 2
+    400052: Tower 2 Cornice  Blocks
+    400054: Tower 3
+    400056: Tower 3 Cornice  Blocks
+    400058: Tower 4
+    400060: Tower 4 Cornice  Blocks
+    2000000: Camera
+    2100000: Cornice 2
+    2100002: Tower 1
+    2100004: base tower
+    2100006: Ground
+    2100008: Gatehouse Cornice
+    2100010: Gatehouse Base
+    2100012: Gatehouse 4
+    2100014: Gatehouse 3
+    2100016: Gatehouse 1
+    2100018: Gatehouse 2
+    2100020: Blocks 2
+    2100022: Catwalk
+    2100024: Wall 2
+    2100026: Material
+    2100028: mushroom
+    2100030: Chair
+    2100032: Box
+    2100034: Table
+    2100036: No Name
+    2300000: base tower
+    2300002: Box
+    2300004: Castle walls
+    2300006: Catwalk.001
+    2300008: Chair
+    2300010: Cornice Blocks
+    2300012: GateHouse
+    2300014: GateHouse Base left
+    2300016: GateHouse Base right
+    2300018: GateHouse Cornice Blocks
+    2300020: Ground
+    2300022: mariomushroom
+    2300024: my tower cornice
+    2300026: mytower
+    2300028: Table
+    2300030: TableLeg
+    2300032: TableLeg.001
+    2300034: TableLeg.002
+    2300036: TableLeg.003
+    2300038: Tower 1
+    2300040: Tower 1 Cornice  Blocks
+    2300042: Tower 2
+    2300044: Tower 2 Cornice  Blocks
+    2300046: Tower 3
+    2300048: Tower 3 Cornice  Blocks
+    2300050: Tower 4
+    2300052: Tower 4 Cornice  Blocks
+    3300000: base tower
+    3300002: Box
+    3300004: Castle walls
+    3300006: Catwalk.001
+    3300008: Chair
+    3300010: Cornice Blocks
+    3300012: GateHouse
+    3300014: GateHouse Base left
+    3300016: GateHouse Base right
+    3300018: GateHouse Cornice Blocks
+    3300020: Ground
+    3300022: mariomushroom
+    3300024: my tower cornice
+    3300026: mytower
+    3300028: Table
+    3300030: TableLeg
+    3300032: TableLeg.001
+    3300034: TableLeg.002
+    3300036: TableLeg.003
+    3300038: Tower 1
+    3300040: Tower 1 Cornice  Blocks
+    3300042: Tower 2
+    3300044: Tower 2 Cornice  Blocks
+    3300046: Tower 3
+    3300048: Tower 3 Cornice  Blocks
+    3300050: Tower 4
+    3300052: Tower 4 Cornice  Blocks
+    4300000: my tower cornice
+    4300002: mytower
+    4300004: base tower
+    4300006: Ground
+    4300008: GateHouse Cornice Blocks
+    4300010: GateHouse Base right
+    4300012: GateHouse
+    4300014: Tower 4 Cornice  Blocks
+    4300016: Tower 4
+    4300018: Catwalk.001
+    4300020: Cornice Blocks
+    4300022: Castle walls
+    4300024: mariomushroom
+    4300026: Chair
+    4300028: Box
+    4300030: Table
+    4300032: TableLeg
+    4300034: TableLeg.001
+    4300036: TableLeg.002
+    4300038: TableLeg.003
+    10800000: Hemi
+    10800002: Lamp
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
